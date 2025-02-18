@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Network UPS Tools (Form with Powerman-PDU)
+url: "https://github.com/stammersscott/addon-nut-powerman"
+maintainer: Scott Stammers <scott.stammers@ssnetnt.com>
