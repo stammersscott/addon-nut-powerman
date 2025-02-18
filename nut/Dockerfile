@@ -9,6 +9,7 @@ RUN \
     && apt-get install -y --no-install-recommends\
         nut=2.8.0-7 \
         nut-snmp=2.8.0-7 \
+        nut-powerman-pdu=2.8.0-7 \
         nut-xml=2.8.0-7 \
         usbutils=1:014-1+deb12u1 \
     && apt-get clean \
